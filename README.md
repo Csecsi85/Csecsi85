@@ -111,7 +111,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
   </a>
 </p>
-<h3 align="left">Passion About</h3>
+<h3 align="left">Passionate About</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 

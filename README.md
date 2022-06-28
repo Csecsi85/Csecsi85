@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CoPro](https://github.com/swapout)
 
-- 🌱 I’m currently improving my skills with **TypeScript and testing with Mocha and Chai**
+- 🌱 I’m currently improving my skills with **TypeScript, GraphQL and testing with Jest**
 
 - 👯 I’m looking to collaborate on **something interesting**
 

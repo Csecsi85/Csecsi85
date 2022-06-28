@@ -86,6 +86,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
+<h3 align="left">Query Languages</h3>
+<p align="left">
+  <a href="https://graphql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> 
+  </a>
+</p>
 <h3 align="left">DevOps</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> 
@@ -99,6 +105,9 @@
   </a>
   <a href="https://www.chaijs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/> 
+  </a>
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> 
   </a>
 </p>
 <h3 align="left">Passionate About</h3>

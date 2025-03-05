@@ -7,8 +7,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csecsi85" alt="csecsi85" /></a> </p>
 
-- 🔭 I’m currently working on [CoPro](https://github.com/swapout)
-
 - 🌱 I’m currently improving my skills with **TypeScript, GraphQL and testing with Jest**
 
 - 👯 I’m looking to collaborate on **something interesting**

@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Gabor</h1>
 <h3 align="center">A passionate full stack developer from Hungary, currently living in Tenerife, Spain. I spent most of my free time working on personal projects or learning something new.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csecsi85" alt="csecsi85" /></a> </p>
-
 - 🌱 I’m currently improving my skills with **TypeScript, GraphQL and testing with Jest**
 
 - 👯 I’m looking to collaborate on **something interesting**
@@ -124,7 +122,3 @@
   </a>
  
 </p>
-
-<h2 align="left">Stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csecsi85&theme=dracula&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=Csecsi85&theme=dracula&show_icons=true&count_private=true" />
